@@ -1,2 +1,3 @@
 # Soccer-Managers
-Exploratory data analysis on how much of an impact managers make on a soccer team
+There have been many great soccer players throughout history including Ronaldo, Messi, Maradona, Pele, and the list goes on.  But what many fans don’t realize is how important managers are to these winning teams.  The manager’s role is to sign new players, coach the practices, create team formations, sub players in and out of the game, and select the players who are going to play the game.  For this article, we are going to look at one of the best managers in history, Jose Mourinho, and see how much of an impact he has made on the teams he has coached by comparing him to the previous and subsequent managers of those teams
+Link: https://www.bruinsportsanalytics.com/post/soccer_managers
